@@ -1,7 +1,9 @@
-site_name: Go Cook
+site_name: Go Cook Online
 site_url: https://tomwillis608.github.io/go-cook/
 repo_url: https://github.com/tomwillis608/go-cook
 repo_name: go-cook
+# Change the source directory from 'docs' to 'cookbook'
+docs_dir: 'cookbook'
 
 # The theme that makes it look great on mobile
 theme:
@@ -26,9 +28,15 @@ theme:
     - navigation.top         # "Back to top" button
     - search.suggest         # Smart search
     - search.highlight       # Highlight search terms
+    # Auto-title pages based on folder/file names
+    - navigation.path
+    - navigation.path_indent
+    # Ensure immediate browsing across pages
+    - navigation.instant
   icon:
     repo: fontawesome/brands/github
 
+nav: [] # Leave empty to let the theme infer the structure
 # Python extensions to make your Markdown powerful
 markdown_extensions:
   - admonition              # Great for "Chef's Notes" or warnings
