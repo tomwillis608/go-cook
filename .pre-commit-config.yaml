@@ -16,10 +16,3 @@ repos:
         # MD033: Inline HTML allowed for custom formatting in documentation.
         # MD036: Emphasis style (bold/italic) flexibility needed for legacy docs.
         args: [ --disable, "MD013,MD033,MD036", --fix ]
-
-  # Optional: Formats your markdown nicely
-#  - repo: https://github.com/JoC0de/pre-commit-prettier
-#    rev: v3.6.2
-#    hooks:
-#      - id: prettier
-#        types_or: [markdown, yaml, css]
