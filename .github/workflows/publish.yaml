@@ -28,7 +28,7 @@ jobs:
       # We use --system here to install into the environment managed by the action
       # This installs the dependencies listed in pyproject.toml
       - name: Install dependencies
-        run: uv pip install --system .
+        run: uv pip install .
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
