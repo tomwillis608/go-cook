@@ -1,7 +1,7 @@
-site_name: My Digital Cookbook
-site_url: https://yourusername.github.io/cookbook/
-repo_url: https://github.com/yourusername/cookbook
-repo_name: Cookbook
+site_name: Go Cook
+site_url: https://tomwillis608.github.io/go-cook/
+repo_url: https://github.com/tomwillis608/go-cook
+repo_name: go-cook
 
 # The theme that makes it look great on mobile
 theme:
@@ -31,7 +31,7 @@ theme:
 
 # Python extensions to make your Markdown powerful
 markdown_extensions:
-  - admonition               # Great for "Chef's Notes" or warnings
+  - admonition              # Great for "Chef's Notes" or warnings
   - attr_list               # Allows adding CSS classes to elements
   - pymdownx.details        # Collapsible sections (great for nutrition info)
   - pymdownx.superfences    # Better code blocks (or pre-formatted text)
@@ -44,4 +44,8 @@ extra_css:
 
 # Plugins
 plugins:
-  - search
+  - search:
+      # Limit indexing to just headings (h1, h2, h3) and the first paragraph
+      # This is great for large sites where you only need to find the topic.
+      separator: '[\s\-,:!=\[\]/]+' # Regex to split words
+      lang: en

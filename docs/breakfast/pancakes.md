@@ -12,13 +12,13 @@ Photo by Unsplash
 
 ## Ingredients
 
-[ ] 2 cups all-purpose flour
-[ ] 2 tbsp sugar
-[ ] 1 tsp baking powder
-[ ] 1/2 tsp baking soda
-[ ] 2 cups buttermilk
-[ ] 2 large eggs
-[ ] 3 tbsp melted butter
+- [ ] 2 cups all-purpose flour
+- [ ] 2 tbsp sugar
+- [ ] 1 tsp baking powder
+- [ ] 1/2 tsp baking soda
+- [ ] 2 cups buttermilk
+- [ ] 2 large eggs
+- [ ] 3 tbsp melted butter
 
 ## Instructions
 
