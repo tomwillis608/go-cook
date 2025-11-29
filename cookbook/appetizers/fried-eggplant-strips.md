@@ -14,11 +14,11 @@ Fried eggplant is a treat with a nice marinara sauce.
 
 - [x] 1 medium egglant, about the volume of a softball
 - [x] 1 egg
-- [x] 1/2 c milk
+- [x] &frac12; c milk
 - [x] salt and pepper
 - [x] a sleeve of saltine crackers
-- [x] 1/2 c olive oil
-- [x] juice of 1/2 lemon
+- [x] &frac12; c olive oil
+- [x] juice of half a lemon
 - [x] optional marinara sauce
 
 ## Instructions
