@@ -1,5 +1,7 @@
 # Fried Eggplant Strips
 
+!!! Original "A _Go Cook!_ print original."
+
 <div class="recipe-meta">
 <span><strong>Prep:</strong> 10 mins</span>
 <span><strong>Cook:</strong> 10 mins</span>

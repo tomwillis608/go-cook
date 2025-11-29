@@ -6,8 +6,8 @@ I cook now.
 
 Browse by Category
 
-- Appetizers
-- Breakfast
+- [Appetizers](appetizers/index.md)
+- [Breakfast](breakfast/index.md)
 - Dinner
 - Dessert
 
