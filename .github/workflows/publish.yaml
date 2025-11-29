@@ -34,4 +34,4 @@ jobs:
           uv pip install .
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+        run: uv run mkdocs gh-deploy --force
