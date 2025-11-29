@@ -1,0 +1,47 @@
+site_name: My Digital Cookbook
+site_url: https://yourusername.github.io/cookbook/
+repo_url: https://github.com/yourusername/cookbook
+repo_name: Cookbook
+
+# The theme that makes it look great on mobile
+theme:
+  name: material
+  # Custom colors - feel free to change!
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs        # Top tabs for desktop
+    - navigation.sections    # Grouped sidebar for mobile
+    - navigation.top         # "Back to top" button
+    - search.suggest         # Smart search
+    - search.highlight       # Highlight search terms
+  icon:
+    repo: fontawesome/brands/github
+
+# Python extensions to make your Markdown powerful
+markdown_extensions:
+  - admonition               # Great for "Chef's Notes" or warnings
+  - attr_list               # Allows adding CSS classes to elements
+  - pymdownx.details        # Collapsible sections (great for nutrition info)
+  - pymdownx.superfences    # Better code blocks (or pre-formatted text)
+  - pymdownx.tasklist:      # Checkboxes for ingredients!
+      custom_checkbox: true
+
+# Custom CSS for recipe formatting
+extra_css:
+  - stylesheets/recipe.css
+
+# Plugins
+plugins:
+  - search
