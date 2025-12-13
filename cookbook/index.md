@@ -15,3 +15,5 @@ Browse by Category
 
 Since this website is responsive, you can **Add to Home Screen** on iOS or Android to treat it like a
 native cookbook app!
+
+[Go Cook! History](history.md)
