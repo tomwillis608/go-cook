@@ -17,7 +17,7 @@ The original preface.
 
 "Go Cook!" is a family cookbook assembled for Tom
 and Laura Willis. It contains historic family recipies from
-great-grandmother Stock and her sisters. Man Willis, Stock
+great-grandmother Stock and her sisters. Many Willis, Stock
 and Corbin relatives contributed their favorite recipies.
 Our immediate family recipes cover the period of family favorites from
 when Tom and Laura were growing up as well as today's choices.
