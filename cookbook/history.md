@@ -1,7 +1,7 @@
 # Go Cook! History
 
 Many of the recipes and the title of this online cookbook come from a cookbook assembled by my mother
-Gracia Willis around the time of my sister's first wedding. Typeset beautifully in LaTeX with cover art by Laura,
+Gracia Willis around the time of my sister's first wedding. Typeset beautifully in $\LaTeX$ with cover art by Laura,
 the print run was around one hundred.
 
 This online version will contain some originals from the print version, sometimes contrasted with a contemporary take

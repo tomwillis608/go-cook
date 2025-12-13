@@ -45,7 +45,8 @@ markdown_extensions:
   - pymdownx.superfences    # Better code blocks (or pre-formatted text)
   - pymdownx.tasklist:      # Checkboxes for ingredients!
       custom_checkbox: true
-
+  - pymdownx.arithmatex:    # TeX for math
+      generic: true
 # Custom CSS for recipe formatting
 extra_css:
   - stylesheets/recipe.css
