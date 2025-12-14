@@ -1,4 +1,4 @@
-site_name: Go Cook Online
+Isite_name: Go Cook Online
 site_url: https://tomwillis608.github.io/go-cook/
 repo_url: https://github.com/tomwillis608/go-cook
 repo_name: go-cook
@@ -47,7 +47,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:    # TeX for math
       generic: true
-  - pymdownx.snippets       # DRY out some includes
+  - pymdownx.snippets:
+      base_path: [ 'cookbook' ] 
+      check_paths: true.     # DRY out some includes
 # Custom CSS for recipe formatting
 extra_css:
   - stylesheets/recipe.css
