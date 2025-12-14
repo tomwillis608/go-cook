@@ -1,5 +1,7 @@
 # Fried Eggplant Strips
 
+!INCLUDE "snippets/kitchen-mode.md"
+
 !!! Original "A _Go Cook!_ print original."
 
 <div class="recipe-meta">

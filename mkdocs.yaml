@@ -47,9 +47,13 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:    # TeX for math
       generic: true
+  - pymdownx.snippets       # DRY out some includes
 # Custom CSS for recipe formatting
 extra_css:
   - stylesheets/recipe.css
+# Custom js for keeping the screen on
+extra_javascript:
+  - cookbook/js/kitchen-mode.js
 
 # Plugins
 plugins:
