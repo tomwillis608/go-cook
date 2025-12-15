@@ -1,8 +1,6 @@
 # Fried Eggplant Strips
 
---8<--
-"snippets/kitchen-mode.md"
---8<--
+--8<-- "kitchen-mode.md"
 
 !!! Original "A _Go Cook!_ print original."
 
