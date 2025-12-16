@@ -10,7 +10,7 @@
 <span><strong>Yields:</strong> 6 servings</span>
 </div>
 
-Fried eggplant is a treat with a nice marinara sauce.
+We ate a lot of this as a kid. I didn't know that Sloppy Joes normally have bell peppers until I left home.
 
 ## Ingredients
 
