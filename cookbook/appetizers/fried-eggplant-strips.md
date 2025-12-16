@@ -30,8 +30,8 @@ Fried eggplant is a treat with a nice marinara sauce.
 - Crush the crackers into crumbs, in a bowl or a zipper-lock bag, then place in a shallow bowl.
 - Mix egg, milk and pepper to taste in a shallow bowl.
 - Dip eggplant into the egg mixture then roll the slices into the cracker crumbs. Set aside without touching each other.
-- Fry the breadded slices in the hot oil in small batches until tender and lightly browned. Set on paper towels when fried.
-- Drizzle lemon juice over the fried egglplant.
+- Fry the breaded slices in the hot oil in small batches until tender and lightly browned. Set on paper towels when fried.
+- Drizzle lemon juice over the fried eggplant.
 - Serve hot, optionally with warm marinara sauce.
 
 ## Chef's Notes
