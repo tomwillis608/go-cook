@@ -55,7 +55,7 @@ extra_css:
   - stylesheets/recipe.css
 # Custom js for keeping the screen on
 extra_javascript:
-  - cookbook/js/kitchen-mode.js
+  - js/kitchen-mode.js
 
 # Plugins
 plugins:
