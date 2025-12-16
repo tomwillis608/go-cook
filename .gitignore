@@ -1,3 +1,6 @@
 /.rumdl-cache/
 /.venv/
 /site/
+/.rumdl_cache/
+/dist/
+.DS_Store
