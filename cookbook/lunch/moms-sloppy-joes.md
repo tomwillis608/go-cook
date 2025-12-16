@@ -17,9 +17,9 @@ We ate a lot of this as a kid. I didn't know that Sloppy Joes normally have bell
 - [x] 1 &frac12; pounds ground beef
 - [x] 1 onion, chopped
 - [x] &frac12; c ketchup
-- [x] tablespoon yellow mustard
-- [x] can chicken gumbo soup
-- [x] cup water
+- [x] 1 tablespoon yellow mustard
+- [x] 1 can chicken gumbo soup
+- [x] 1 cup water
 - [x] 3-ounce can mushroom bits and pieces, drained
 - [x] salt and pepper
 - [x] optional, 6 sandwich rolls, toasted
