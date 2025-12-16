@@ -48,7 +48,7 @@ markdown_extensions:
   - pymdownx.arithmatex:    # TeX for math
       generic: true
   - pymdownx.snippets:
-      base_path: [ 'cookbook/snippets' ]
+      base_path: [ 'cookbook/_snippets' ]
       check_paths: true     # DRY out some includes
 # Custom CSS for recipe formatting
 extra_css:

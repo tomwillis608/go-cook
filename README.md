@@ -1,7 +1,7 @@
 # go-cook
 
 This is a collection of my favorite recipes, accessible from anywhere,
-like my phone, in the kitchen. 
+like my phone, in the kitchen.
 This includes recipes collected by my mother
 from family and friends, as well as how I actually cook these recipes from my family, as well as new things that
 I cook now.
