@@ -10,6 +10,7 @@ Browse by Category
 
 - [Appetizers](appetizers/index.md)
 - [Breakfast](breakfast/index.md)
+- [Lunch](lunch/index.md)
 - [Dinner](dinner/index.md)
 - Dessert
 
