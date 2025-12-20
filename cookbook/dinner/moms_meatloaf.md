@@ -25,7 +25,7 @@ for sandwiches the next day.
 - [x] &frac18; garlic salt
 - [x] 1 &frac12; teaspoons Worcestershire sauce
 - [x] ketchup
-- [x] optional, 3 hard cooked eggs, peeled 
+- [x] optional, 3 hard cooked eggs, peeled
 
 ## Instructions
 
@@ -42,7 +42,7 @@ for sandwiches the next day.
 !!! note "My Take"
 
 I don't think I have ever cooked this recipe with the small amounts of
-spices called for: I always use a lot more.  Also, I never have celery salt 
+spices called for: I always use a lot more. Also, I never have celery salt
 or garlic salt, so I use celery seed and garlic powder when I cook this.
 
 My kids don't seem to go for the tucked eggs, but if you want that authentic
