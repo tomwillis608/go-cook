@@ -1,4 +1,4 @@
-# Flag  Pancakes
+# Flag Pancakes
 
 !!! Original "A _Go Cook!_ print original."
 
