@@ -42,4 +42,4 @@ I always increase the Worcestershire in almost all the old family
 recipes and this is no exception. Also, a dash of Tabasco? Hah.
 Consider substituting Crystal, Louisiana, or Franks for Tabasco, and shake it in there.
 Also, I do not recall the last time I used margarine, so use butter.
-For an extra step, add some Old Bay spice powder in the first step.
+For extra depth, add some Old Bay spice powder in the first step.
