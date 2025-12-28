@@ -8,10 +8,12 @@ I cook now.
 
 Browse by Category
 
-- [Appetizers](appetizers/index.md)
-- [Breakfast](breakfast/index.md)
-- [Lunch](lunch/index.md)
-- [Dinner](dinner/index.md)
+- [Breads and Doughs](breads/index.md)
+- [Stocks, Soups, and Stews](soups/index.md)
+- [Breakfast, Eggs, and Dairy](breakfast/index.md)
+- [Apps, Snacks, and Finger Foods](appetizers/index.md)
+- [Ground Meats](ground_meats/index.md)
+- [Dry-Heat Cooking: Frying and Broiling Proteins](dry-heat/index.md)
 - Dessert
 
 !!! tip "How to use this app"
