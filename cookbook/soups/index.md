@@ -2,4 +2,5 @@
 
 Good food.
 
-- [Willies's Chili](willies_chili.md)
+- [Willie's Chili](willies_chili.md)
+- [Oyster Stew](oyster_stew.md)
