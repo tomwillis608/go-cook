@@ -2,11 +2,11 @@
 
 This is a collection of my favorite recipes, accessible from anywhere,
 like my phone, in the kitchen.
-This includes recipes collected by my mother
+This includes recipes collected by my mother Gracia Willis
 from family and friends, as well as how I actually cook these recipes from my family, as well as new things that
 I cook now.
 
-Browse by Category
+Browse by Chapter
 
 - [Breads and Doughs](breads/index.md)
 - [Stocks, Soups, and Stews](soups/index.md)
