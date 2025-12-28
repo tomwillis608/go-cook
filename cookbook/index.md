@@ -12,9 +12,16 @@ Browse by Category
 - [Stocks, Soups, and Stews](soups/index.md)
 - [Breakfast, Eggs, and Dairy](breakfast/index.md)
 - [Apps, Snacks, and Finger Foods](appetizers/index.md)
+- Greens, Salads, and Dressings
+- Cooking Vegetables
+- Pasta, Rice, and Ancient Grains
 - [Ground Meats](ground_meats/index.md)
 - [Dry-Heat Cooking: Frying and Broiling Proteins](dry-heat/index.md)
-- Dessert
+- Roasting: Turkey, Chicken, Prime Rib, and Pork
+- Battered and Fried
+- Ferments and Pickles
+- Desserts
+- Bottom of the Barrel
 
 !!! tip "How to use this app"
 
