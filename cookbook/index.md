@@ -15,7 +15,7 @@ Browse by Chapter
 - Greens, Salads, and Dressings
 - Cooking Vegetables
 - Pasta, Rice, and Ancient Grains
-- [Ground Meats](ground_meats/index.md)
+- [Ground Meats](ground-meats/index.md)
 - [Dry-Heat Cooking: Frying and Broiling Proteins](dry-heat/index.md)
 - Roasting: Turkey, Chicken, Prime Rib, and Pork
 - Battered and Fried
