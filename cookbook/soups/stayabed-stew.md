@@ -34,6 +34,13 @@ My first dump-and-bake.
 !!! note "Source"
 
 This was my mother's favorite recipe from Peg Brakken's classic
-"I Hate to Cook Book" from 1960. The 5 hour cooking time allows a wonderful
+"I Hate to Cook Book" from 1960.
+
+!!! note "My Take"
+
+The 5 hour cooking time allows a wonderful
 browning of the beef chunks from the Maillard Reaction, while giving time
 to literally go back to bed while it cooks.
+
+Who can find cream of tomato soup anymore, so just use
+regular condensed tomato soup.
