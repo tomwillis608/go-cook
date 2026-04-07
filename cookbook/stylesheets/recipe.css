@@ -69,6 +69,12 @@
   outline-offset: 2px;
 }
 
+.wake-status {
+  margin-top: 0.65rem;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+}
+
 .ios-warning {
   margin-top: 0.75rem;
   color: var(--md-typeset-a-color);
