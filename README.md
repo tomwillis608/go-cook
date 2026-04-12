@@ -30,3 +30,15 @@ cookbook/
 └── js/            # Javascript for minimal special effects
 
 ```
+
+### Build
+
+```terminal
+uv run mkdocs build
+```
+
+### Serve Locally
+
+```terminal
+uv run mkdocs serve
+```
