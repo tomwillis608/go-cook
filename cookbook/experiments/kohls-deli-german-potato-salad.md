@@ -6,7 +6,7 @@
 
 ## Ingredients (serves \~6)
 
-* 5–6 medium Yukon Gold or red potatoes (about 2 lbs), peeled or scrubbed, cut into 1” cubes
+* 5–6 medium Yukon Gold or red potatoes (about 2 lbs), peeled or scrubbed, sliced about 8mm thick
 * 4–5 slices bacon (≈½ lb), diced
 * ½ cup finely diced onion
 * 2 tbsp finely diced celery
