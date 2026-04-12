@@ -37,12 +37,14 @@ A classic Midwestern stroganoff, presented as written.
 
 !!! note "Source"
 
-This is a recipe from Wayne Maass. Wayne and Faye were college friends
+This is a recipe shared from Wayne Maass. Wayne and Faye were college friends
 of my parents and raised Angus cattle in northwest Iowa.
 
 !!! note "My Take"
 
-Margarine, bullion cubes, and few spices date this recipe to a time when we had
+Margarine, canned mushrooms, bullion cubes, and few spices date this recipe to a time when we had
 fewer choices at the food market, in the 1970s and before. You can use
-butter or olive oil instead of margarine and use a nice stock instead
-of the bullion.
+butter or olive oil instead of margarine, fresh mushrooms,
+and use a nice stock instead of the bullion.
+
+Note that a classic stroganoff calls for some Dijon mustard.
