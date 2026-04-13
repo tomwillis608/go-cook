@@ -15,7 +15,7 @@ Browse by Chapter
 - Greens, Salads, and Dressings
 - Cooking Vegetables
 - Pasta, Rice, and Ancient Grains
-- Casseroles, Bakes, and One-Dish Meals
+- [Casseroles, Bakes, and One-Dish Meals](casseroles/index.md)
 - [Ground Meats](ground-meats/index.md)
 - [Dry-Heat Cooking: Frying and Broiling Proteins](dry-heat/index.md)
 - [Braised and Sauced](braises/index.md)
