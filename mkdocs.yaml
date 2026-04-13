@@ -37,6 +37,11 @@ theme:
     repo: fontawesome/brands/github
 
 nav: [] # Leave empty to let the theme infer the structure
+
+# Snippet fragments are included into recipe pages but are not chapters.
+exclude_docs: |
+  _snippets/**
+
 # Python extensions to make your Markdown powerful
 markdown_extensions:
   - admonition              # Great for "Chef's Notes" or warnings
