@@ -18,7 +18,7 @@ Browse by Chapter
 - Casseroles, Bakes, and One-Dish Meals
 - [Ground Meats](ground-meats/index.md)
 - [Dry-Heat Cooking: Frying and Broiling Proteins](dry-heat/index.md)
-- Braised and Sauced
+- [Braised and Sauced](braises/index.md)
 - Roasting: Turkey, Chicken, Prime Rib, and Pork
 - Battered and Fried
 - Ferments and Pickles

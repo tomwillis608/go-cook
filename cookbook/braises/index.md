@@ -2,7 +2,7 @@
 
 Wet and saucy proteins.
 
-- Beef Stroganoff
+- [Wayne's Beef Stroganoff](waynes-beef-stroganoff.md)
+- [Birthday Stroganoff](birthday-beef-stroganoff.md)
 - Beef Bourguignon
-- Birthday Stroganoff
 - Sauce Bolognese
