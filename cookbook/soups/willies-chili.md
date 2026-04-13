@@ -31,12 +31,6 @@ that fed 1100 people at a time.
 - Simmer, stirring, for at least 2 hours.
 - Serve with corn bread.
 
-- Add the beaten egg, spices, and Worcestershire sauce.
-- Shape into a load, in a loaf pan.
-- If desired, hide the peeled hard cooked eggs in the center of the loaf.
-- Spread ketchup over the top of the loaf.
-- Bake for 1 hour.
-
 ## Chef's Notes
 
 !!! note "My Take"
