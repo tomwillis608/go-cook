@@ -1,6 +1,8 @@
 # Willie's Chili
 
-!!! Original "A _Go Cook!_ print original."
+--8<-- "kitchen-mode.md"
+
+-8<-- "original.md"
 
 <div class="recipe-meta">
 <span><strong>Prep:</strong> 20 mins</span>
