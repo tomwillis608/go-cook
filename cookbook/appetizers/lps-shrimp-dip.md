@@ -10,7 +10,7 @@
 <span><strong>Yields:</strong> 6 servings</span>
 </div>
 
-If this dip was out, we were having some peel and eat shrimp -- yum!
+If this dip was out, we were having some peel-and-eat shrimp -- yum!
 
 ## Ingredients
 
