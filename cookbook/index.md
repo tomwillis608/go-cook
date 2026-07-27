@@ -22,7 +22,7 @@ Browse by Chapter
 - Roasting: Turkey, Chicken, Prime Rib, and Pork
 - Battered and Fried
 - Ferments and Pickles
-- Desserts
+- [Desserts](desserts/index.md)
 - Bottom of the Barrel
 - [Test Kitchen](experiments/index.md)
 
