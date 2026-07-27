@@ -1,0 +1,102 @@
+.recipe-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.recipe-meta span {
+  display: block;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  border-radius: 0.8rem;
+  background: color-mix(in srgb, var(--md-default-bg-color) 92%, var(--md-primary-fg-color) 8%);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.recipe-meta strong {
+  display: block;
+  margin-bottom: 0.2rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.md-typeset h2 {
+  margin-top: 1.8rem;
+}
+
+.md-typeset ul.task-list,
+.md-typeset ol {
+  padding-left: 0;
+}
+
+.md-typeset .task-list-item,
+.md-typeset ol li {
+  margin-bottom: 0.85rem;
+}
+
+.md-typeset .task-list-control {
+  margin-right: 0.55rem;
+}
+
+.md-typeset .admonition.original {
+  font-size: 0.9rem;
+}
+
+.wake-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  padding: 0.7rem 1rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.wake-btn:hover,
+.wake-btn:focus-visible {
+  filter: brightness(1.05);
+}
+
+.wake-btn:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+
+.wake-status {
+  margin-top: 0.65rem;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.ios-warning {
+  margin-top: 0.75rem;
+  color: var(--md-typeset-a-color);
+  font-size: 0.92rem;
+}
+
+@media (max-width: 44.9375em) {
+  .md-typeset {
+    font-size: 0.84rem;
+  }
+
+  .recipe-meta {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+
+  .md-typeset .task-list-item,
+  .md-typeset ol li {
+    margin-bottom: 1rem;
+  }
+
+  .wake-btn {
+    width: 100%;
+  }
+}
