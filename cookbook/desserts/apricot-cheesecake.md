@@ -2,8 +2,6 @@
 
 --8<-- "kitchen-mode.md"
 
---8<-- "original.md"
-
 <div class="recipe-meta">
 <span><strong>Prep:</strong> 50 mins</span>
 <span><strong>Cook:</strong> 50-60 mins</span>
@@ -24,6 +22,10 @@
   - fresh strawberries, or
   - fresh raspberries, or
   - sweetened simmered cranberries
+
+## Equipment
+
+- 8 or 9 inch Springform pan
 
 ## Instructions
 
